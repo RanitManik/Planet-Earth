@@ -20,7 +20,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](ranitmanik.github.io/Planet-Earth/)
 
-# About The Project
+## About The Project
 
 Welcome to Planet Earth, where we foster a deep connection with nature, instilling care for the environment. Our platform shares valuable information, captivating stories, and breathtaking visuals to showcase Earth's wonders. Through collective efforts, we inspire action for conservation and appreciation of life's diversity. Join our journey to create a positive impact on our precious planet for future generations.
 
@@ -33,14 +33,14 @@ Welcome to Planet Earth, where we foster a deep connection with nature, instilli
 
 Thank you for your support in our mission, and let's embark on a meaningful and transformative adventure for the betterment of our world.
 
-# Technologies Utilized
+## Technologies Utilized
 
 - HTML5
 - CSS3
 - javascript
 
 
-# Getting Started
+## Getting Started
 
 _To get started with this project, follow these steps :_
 <br>
@@ -65,7 +65,7 @@ _To get started with this project, follow these steps :_
    ```bash
     git push --set-upstream origin DEV/{your_name}/{in which you working on}
 
-# Roadmap
+## Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -80,15 +80,13 @@ _To get started with this project, follow these steps :_
 
 <!-- CONTRIBUTING -->
 
-# License
+## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
 <!-- CONTACT -->
 
-# Contact
+## Contact
 
 - Name - <a href="https://ranitmanik.github.io/Portfolio-1.0/">Ranit Kumar Manik</a>
 
@@ -96,23 +94,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Project Link - [https://github.com/RanitManik/Planet-Earth.git](https://github.com/RanitManik/Planet-Earth.git)
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 
-# Acknowledgments
+## Acknowledgments
 
 - I would like to acknowledge that I didn't create this website alone. It was inspired by a fantastic YouTube tutorial, which you can <a href="https://youtu.be/xG1_vbVPUUs"><strong> watch here »</strong></a>
 
 - Feel free to check it out and see the source of inspiration for this project.
 
 - Thank you for visiting Planet-Earth, and we hope you enjoy exploring the wonders of our beautiful planet!
-
-
----
-
-<p align="center"> if you like my work, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
-
-<p align="center"><a href="https://www.buymeacoffee.com/ranitmanik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 [product-screenshot]: Assets/screenshot.png
