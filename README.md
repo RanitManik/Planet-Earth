@@ -38,9 +38,6 @@ Welcome to Planet Earth, where we foster a deep connection with nature, instilli
 - Connect people with the natural world
 - Foster a deep appreciation for the Earth's diverse ecosystems
 - Inspire a collective commitment to preserve and protect our precious planet for generations to come.
-- Visit my website: [ranitmanik.github.io/Planet-Earth/](https://ranitmanik.github.io/Planet-Earth/)
-
-Thank you for your support in our mission, and let's embark on a meaningful and transformative adventure for the betterment of our world.
 
 ## Technologies Utilized
 
@@ -76,18 +73,21 @@ To get started with this project, follow these steps:
   git push --set-upstream origin DEV/{your_name}/{in which you're working on}
   ```
 
+## Acknowledgments
+
+- I would like to acknowledge that I didn't create this website alone. It was inspired by a fantastic YouTube tutorial, which you can [watch here »](https://youtu.be/xG1_vbVPUUs)
+- Feel free to check it out and see the source of inspiration for this project.
+- Thank you for visiting Planet-Earth, and we hope you enjoy exploring the wonders of our beautiful planet!
+
 ## Contact
 
+_If you have any questions, suggestions, or just want to connect, feel free to reach out to me:_
 - [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
-## Acknowledgments
-
-- I would like to acknowledge that I didn't create this website alone. It was inspired by a fantastic YouTube tutorial, which you can [watch here »](https://youtu.be/xG1_vbVPUUs)
-- Feel free to check it out and see the source of inspiration for this project.
-- Thank you for visiting Planet-Earth, and we hope you enjoy exploring the wonders of our beautiful planet!
+Happy Coding!
 
 [product-screenshot]: Assets/screenshot.png
