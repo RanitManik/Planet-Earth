@@ -25,9 +25,8 @@
 - [Our Mission](#our-mission)
 - [Technologies Utilized](#technologies-utilized)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
-
+- [Contact](#contact)
 
 ## About The Project
 
